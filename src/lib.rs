@@ -1,3 +1,11 @@
+//! # Rust zeromq binding
+//!
+//!
+extern crate libc;
+
+pub mod ffi;
+
+
 #[cfg(test)]
 mod tests {
     #[test]
