@@ -1,0 +1,6 @@
+[package]
+name = "rust-zeromq"
+version = "0.1.0"
+authors = ["karec <manu.valette@gmail.com>"]
+
+[dependencies]
